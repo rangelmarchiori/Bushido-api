@@ -1,0 +1,9 @@
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/Bushido-api.csproj.AssemblyReference.cache
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/Bushido-api.GeneratedMSBuildEditorConfig.editorconfig
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/Bushido-api.AssemblyInfoInputs.cache
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/Bushido-api.AssemblyInfo.cs
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/Bushido-api.csproj.CoreCompileInputs.cache
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/Bushido-api.MvcApplicationPartsAssemblyInfo.cs
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/Bushido-api.MvcApplicationPartsAssemblyInfo.cache
+/home/amr/Documentos/Bushido-api/obj/Debug/net10.0/Bushido-api.sourcelink.json

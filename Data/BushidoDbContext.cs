@@ -8,5 +8,5 @@ public class BushidoDbContext : DbContext
     public BushidoDbContext(DbContextOptions<BushidoDbContext> options)
         : base(options) { }
 
-    public DbSet<Aula> Aulas => Set<Aula>();   // cada DbSet = uma tabela
+    public DbSet<Categoria> Categoria => Set<Categoria>();  
 }

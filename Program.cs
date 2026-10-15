@@ -4,6 +4,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
+builder.Services.AddDbContext<BushidoDbContext>(options =>
+						options.UseMySql(
+						    builder.Configuration.GetConnectionString("Default"),
+						    ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("Default"))
+						));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
