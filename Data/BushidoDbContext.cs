@@ -1,6 +1,6 @@
-using Bushido_api.Models;
+using Bushido_api.Models;      
 using Microsoft.EntityFrameworkCore;
-
+    
 namespace Bushido_api.Data;
 
 public class BushidoDbContext : DbContext

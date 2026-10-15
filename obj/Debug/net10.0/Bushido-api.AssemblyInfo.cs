@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bushido-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c76a69550a8323bb0769826def1f9e7b5bec43ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b7b509b395e71a483b92009da8f3d9bb39931b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bushido-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bushido-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
